@@ -1,4 +1,14 @@
-## Oii! Aproveite a estadia!!🌱
+## Olá, devs!! :smile:
+
+Me chamo *Rafael Costa*, sou estudante de Engenharia Computacional na *Universidade Federal de Juiz de Fora(UFJF)*.
+
+# :alien: O que já fiz e tenho feito?
+* Participei de uma iniciação cientifica de desenvolvimento de uma rede neural com método não destrutivo para cálculo de área foliar, onde criei máscaras para áreas foliares e transformações de arquivos de coordendas **.json** para **.xml**.
+* Participo de um projeto de extensão, chamado *Labmaker*, onde modelamos objetos em 3D, fazemos impressão 3D, oferecemos minicursos de modelagem geométrica e robótica, todos com focos em ensino para crianças e adultos.
+* Sempre em busca de aprender novas tecnologias e participando de projetos/eventos na área de programação!!
+
+
+Você pode me perguntar qualquer coisa *(dentro do razoável)*. Estou ansioso para absorver conhecimento🧠, ganhar experiência 🏭, colaborar🤝 e construir produtos incríveis 🏭para o mundo🌍!
 
 
 <div style="display: inline_block"><br>
