@@ -66,7 +66,7 @@
 
 <div align="center">
   <a href="mailto:allaskaraff@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F7B8F7" alt="Email"></a>
-  <a href="www.linkedin.com/in/rafael-costa-a52b83236"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7B8F7" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rafael-costa-a52b83236"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7B8F7" alt="LinkedIn"></a>
 </div>
 <br>
 <div align="center">
