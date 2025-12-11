@@ -5,7 +5,7 @@
     <em>Desenvolvendo soluções na intersecção entre Engenharia de Software e Ciência de Dados.</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/rafael-costa-a52b83236">
+  <a href="https://www.linkedin.com/in/allaskaraff">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:allaskaraff@gmail.com">
