@@ -1,74 +1,60 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/62/75/3d6275c5b7337937b4b1a43a042971d6.gif" width="100%"/>
-</div>
+  <h1>Rafa Costa</h1>
+  <h3>Estudante de Engenharia de Computação | UFJF</h3>
+  <p>
+    <em>Desenvolvendo soluções na intersecção entre Engenharia de Software e Ciência de Dados.</em>
+  </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=1000&color=F7B8F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Rafa;Em+busca+de+oportunidades;Estudante+de+Eng.+Comp." alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <p>☁️ Estudo na <strong>Universidade Federal de Juiz de Fora (UFJF)</strong> ☁️</p>
-  <p><em>Explorando a intersecção entre a lógica e o sonho.</em></p>
-</div>
-
-<br>
-
-<div align="center">
-  · · ─────── ·𖥸· ─────── · ·
-</div>
-
-### <p align="center">~ experiências ~</p>
-
--   `Iniciação Científica` 🧠
-    -   Ajudei na contrução de redes neurais para cálculo da geometria de folhas, criando máscaras de segmentação e traduzindo dados (`.json` -> `.xml`).
-
--   `Projeto Labmaker` ✨
-    -   Realizei impressão/modelagem de objetos 3D e compartilhei conhecimento sobre modelagem e robótica, em palestras para adultos e crianças.
-
--   `Estágio` 💿
-    -   Desenvolvi e mantive classes em Java para automatizar a extração e o processamento de dados de folhas em diversos formatos.
-
-<br>
-
-<div align="center">
-  · · ─────── ·𖥸· ─────── · ·
-</div>
-
-### <p align="center">~ linguagens conhecidas ~</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,lua&theme=dark&perline=5" />
+  <a href="https://www.linkedin.com/in/rafael-costa-a52b83236">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="mailto:allaskaraff@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 <br>
 
-<div align="center">
-  · · ─────── ·𖥸· ─────── · ·
+## 👨‍💻 Sobre Mim
+
+Atualmente graduando na **Universidade Federal de Juiz de Fora (UFJF)**, busco oportunidades para aplicar meus conhecimentos em problemas reais. Tenho uma base sólida em lógica de programação e uma paixão crescente por **Inteligência Artificial** e **Automação**.
+
+Minha trajetória acadêmica e profissional é marcada pela curiosidade técnica e pela capacidade de transitar entre a pesquisa científica e o desenvolvimento prático de software.
+
+---
+
+## 🚀 Experiência e Projetos
+
+| Tipo | Atuação e Impacto |
+| :--- | :--- |
+| **Estágio em Desenvolvimento** | **Automação em Java:** Desenvolvi e mantive classes para automatizar a extração e processamento massivo de dados, otimizando fluxos de trabalho e convertendo formatos de arquivos de forma eficiente. |
+| **Iniciação Científica** | **Visão Computacional & IA:** Atuei na construção de redes neurais para análise geométrica de folhas. Fui responsável pela criação de máscaras de segmentação e pelo pré-processamento de dados (conversão `.json` para `.xml`), contribuindo para a precisão dos modelos. |
+| **Projeto Labmaker** | **Modelagem 3D & Educação:** Liderai a impressão e modelagem de objetos 3D e ministrei palestras/workshops sobre robótica e modelagem, disseminando conhecimento tecnológico para públicos de diversas idades. |
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+**Linguagens de Programação**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
-
-### <p align="center">~ áreas de interesse ~</p>
-
-<p align="center">
-  Machine Learning ✧ Data Science ✧ Otimização ✧ Visão Computacional
-  <br>
-  Desenvolvimento de Jogos ✧ Processamento de Linguagem Natural ✧ Engenharia de Software
-</p>
 
 <br>
 
-<div align="center">
-  · · ─────── ·𖥸· ─────── · ·
-</div>
+**Áreas de Interesse e Estudo**
+* 🔭 **Data Science & Machine Learning:** Foco em Otimização e Visão Computacional.
+* 💻 **Engenharia de Software:** Desenvolvimento de soluções robustas e escaláveis.
+* 🎮 **Desenvolvimento de Jogos:** Aplicação de lógica e física em ambientes interativos.
+* 🗣️ **Processamento de Linguagem Natural (NLP):** Análise e geração de texto.
 
-### <p align="center">~ como me encontrar ~</p>
+---
 
 <div align="center">
-  <a href="mailto:allaskaraff@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F7B8F7" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/rafael-costa-a52b83236"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7B8F7" alt="LinkedIn"></a>
-</div>
-<br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c1/e5/5a/c1e55a434199623e6020c2420a7b51b3.gif" width="100%"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
 </div>
