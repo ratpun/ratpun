@@ -51,10 +51,3 @@ Minha trajetória acadêmica e profissional é marcada pela curiosidade técnica
 * 💻 **Engenharia de Software:** Desenvolvimento de soluções robustas e escaláveis.
 * 🎮 **Desenvolvimento de Jogos:** Aplicação de lógica e física em ambientes interativos.
 * 🗣️ **Processamento de Linguagem Natural (NLP):** Análise e geração de texto.
-
----
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ratpun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratpun&layout=compact&theme=dracula"/>
-</div>
