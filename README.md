@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Rafa Costa</h1>
   <h3>Estudante de Engenharia de Computação | UFJF</h3>
-  <p>
-    <em>Desenvolvendo soluções na intersecção entre Engenharia de Software e Ciência de Dados.</em>
-  </p>
 
   <a href="https://www.linkedin.com/in/allaskaraff">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
