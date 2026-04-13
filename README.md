@@ -17,9 +17,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente graduando na **Universidade Federal de Juiz de Fora (UFJF)**, busco oportunidades para aplicar meus conhecimentos em problemas reais. Tenho uma base sólida em lógica de programação e uma paixão crescente por **Inteligência Artificial** e **Automação**.
-
-Minha trajetória acadêmica e profissional é marcada pela curiosidade técnica e pela capacidade de transitar entre a pesquisa científica e o desenvolvimento prático de software.
+Atualmente graduando na **Universidade Federal de Juiz de Fora (UFJF)**, busco oportunidades para aplicar meus conhecimentos em problemas reais. Tenho uma base sólida em lógica de programação e uma paixão crescente por **Desenvolvimento de jogos** e **Análise de dados**.
 
 ---
 
